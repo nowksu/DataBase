@@ -1,0 +1,4 @@
+sqlplus 명령
+@ : 외부 file load 후 실행할때 붙여줌
+ex) @func_ex2.sql
+
