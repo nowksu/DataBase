@@ -1,0 +1,20 @@
+데이터베이스 시스템은 데이터의 검색과 변경 작업을 주로 수행함
+데이터베이스 개요
+1. 통합된 데이터  
+2 .저장된 데이터
+3. 운영 데이터
+4. 공용 데이터  
+
+DBMS(DATABASE Management system)
+data 무결성을 높여줌(신뢰성을 높여줌)
+data 중복, 동시 사용 불가능 문제를 해결해줌
+
+DDL (data definition language)
+DML (mamipulation) - 데이터 조작(우리가 할 것)
+DCL (Control) - 데이터 제어
+CRUD (create, retrieval, upgrade, delete) = DML
+
+table = relation
+
+프라이머리 키 - 유일무의 , 낫 null
+외래키 - 두 테이블간에 연관을 지어주는 키 , 유일무의x 낫null x 주종관계에서 종관계로 넘어온게 FK 
